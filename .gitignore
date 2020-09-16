@@ -1,5 +1,5 @@
-test-webapp/target
-test-webapp/.settings
-test-webapp/.classpath
-test-webapp/.project
+target
+.settings
+.classpath
+
 
